@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name":"Cosmetics",
+        "price":"800",
+        "imageUrl":"/images/cosmatics.jpg"
+    },{
+        "id":2,
+        "name":"Crockery",
+        "price":"800",
+        "imageUrl":"/images/crockery.jpg"
+    },{
+        "id":3,
+        "name":"Accessories",
+        "price":"800",
+        "imageUrl":"/images/accessories.jpg"
+    },
+    {
+        "id":4,
+        "name":"Cosmetics",
+        "price":"800",
+        "imageUrl":"/images/cosmatics.jpg"
+    },{
+        "id":5,
+        "name":"Crockery",
+        "price":"800",
+        "imageUrl":"/images/crockery.jpg"
+    },{
+        "id":6,
+        "name":"Accessories",
+        "price":"800",
+        "imageUrl":"/images/accessories.jpg"
+    }
+]
